@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://businessinuae.pages.dev/sitemap.xml
